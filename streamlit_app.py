@@ -3,8 +3,7 @@ import streamlit as st
 import pandas as pd
  
 st.write("""
-# My first app
-Hello *world!*
+# China National Economic Growth Forcasting system 
 """)
  
 df = pd.read_csv("ChinaNationalEconomyData.csv")
